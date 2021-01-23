@@ -22,7 +22,7 @@ const Corpo = () => {
           </p>
         </div>
         <div className="lottie-config">
-          <Lottie options={defaultOptions} height={400} width={320}/>
+          <Lottie options={defaultOptions} height={400} width={320} title="Hadi Firmansyah"/>
         </div>
       </section>
     )
