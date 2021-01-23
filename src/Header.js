@@ -1,12 +1,12 @@
 import React from 'react'
-
 const Header = () => {
     return (
         <header className="header-color">
             <section>
-                <a href="/" className="logo">Logo</a>
+                <a href="http://carloseduardobastos.github.io/portfolio1" className="logo">DeveloperPro</a>
+                
                     <ul>
-                        <li><a href="/">home</a></li>
+                        <li><a href="http://carloseduardobastos.github.io/restaurante">home</a></li>
                         <li><a href="#sobre">sobre</a></li>
                         <li><a href="#informacao">informação</a></li>
                     </ul>
