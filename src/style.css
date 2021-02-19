@@ -86,7 +86,7 @@ body{
     margin-left: 10px;
 }
 
-.html-info,.css-info,.js-info,.react-info,.next-info{
+.html-info,.css-info,.js-info,.react-info,.next-info,.node-info,.mysql-info{
     font-size: 1.6rem;
     margin-top: 5px;
     text-align: center;
@@ -108,6 +108,12 @@ body{
 }
 .corpo-info .next-info{
     color: #000000;
+}
+.corpo-info .node-info{
+    color: #5B9353;
+}
+.corpo-info .mysql-info{
+    color: #1D4A65;
 }
 .projetos{
     max-width: 960px;

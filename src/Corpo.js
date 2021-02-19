@@ -18,7 +18,7 @@ const Corpo = () => {
           <p>
             Meu nome é Carlos Eduardo, tenho 17 anos, comecei na área da programação aos 11 anos utilizando a linguagem python,
             mas o que me apaixonou foi o desenvolvimento web onde eu estou até hoje, no desenvolvimento web foi onde eu aprendi
-            html, css, javascript e estou aprendendo react.js e next.js.
+            html, css, javascript e estou aprendendo react.js, next.js, node.js e mysql
           </p>
         </div>
         <div className="lottie-config">

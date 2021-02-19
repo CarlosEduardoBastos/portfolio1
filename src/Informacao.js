@@ -11,6 +11,8 @@ const Informacao = () => {
                     <h2 className="js-info">javascript <small>2 a 3 anos</small></h2>
                     <h2 className="react-info">react.js <small>1 a 2 anos</small></h2>
                     <h2 className="next-info">next.js <small>2 a 3 meses</small></h2>
+                    <h2 className="node-info">node.js <small>3 a 4 meses</small></h2>
+                    <h2 className="mysql-info">mysql <small>3 a 4 meses</small></h2>
                 </div>
             </div>
             <div className="projetos">
