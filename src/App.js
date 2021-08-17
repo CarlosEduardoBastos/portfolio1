@@ -1,16 +1,13 @@
-import React from 'react';
-import Corpo from './Corpo';
-import Header from './Header';
-import Informacao from './Informacao';
-
+import React from "react";
+import "./App.css";
+import Corpo from "./components/Corpo";
+import Header from "./components/Header";
 
 function App() {
-  
   return (
     <>
       <Header />
       <Corpo />
-      <Informacao />
     </>
   );
 }

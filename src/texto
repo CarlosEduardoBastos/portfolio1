@@ -1,0 +1,17 @@
+            Meu nome é Carlos Eduardo, tenho 17 anos, comecei na área da programação aos 11 anos utilizando a linguagem python,
+            mas o que me apaixonou foi o desenvolvimento web onde eu estou até hoje, no desenvolvimento web foi onde eu aprendi
+            html, css, javascript e estou aprendendo react.js, next.js, node.js e mysql
+
+
+            <div className="lottie-config">
+          <Lottie options={defaultOptions} height={400} width={320} title="Hadi Firmansyah"/>
+        </div>
+
+        const defaultOptions = ({
+        loop: true,
+        autoplay: true,
+        animationData: animationData,
+        rendererSettings: {
+          preserveAspectRatio: "xMidYMid slice"
+        }
+      })
