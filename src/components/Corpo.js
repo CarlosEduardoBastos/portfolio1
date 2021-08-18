@@ -1,15 +1,15 @@
 import React from "react";
-import foto from "../img/site.png";
+import { Content } from "../styles/Corpo.style";
+import ControlledCarousel from "./ControlledCarousel";
 
 const Corpo = () => {
   return (
-    <main>
-      <section>
-        <section className="imagem">
-          <img src={foto} alt="site do restaurante" />
-        </section>
+    <Content>
+      <section className="imagem_corpo">
+        <h1>Projeto</h1>
+        <ControlledCarousel />
       </section>
-    </main>
+    </Content>
   );
 };
 

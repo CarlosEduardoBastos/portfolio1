@@ -9,6 +9,7 @@ export const HeaderContent = styled.header`
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
     .sobre {
       h1 {
         color: #fff;
@@ -27,6 +28,9 @@ export const HeaderContent = styled.header`
         margin: 10px 10px 0px 0px;
         color: #99d8ff;
       }
+    }
+    .lottie {
+      max-width: 400px;
     }
   }
 `;

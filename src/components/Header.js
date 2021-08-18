@@ -36,7 +36,7 @@ const Header = () => {
             Github
           </a>
         </div>
-        <div>
+        <div className="lottie">
           <Lottie
             options={defaultOptions}
             height={400}
