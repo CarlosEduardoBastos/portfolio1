@@ -11,6 +11,7 @@ export const HeaderContent = styled.header`
     justify-content: space-between;
     flex-wrap: wrap;
     .sobre {
+      max-width: 500px;
       h1 {
         color: #fff;
         font-family: Helvetica;
@@ -30,7 +31,7 @@ export const HeaderContent = styled.header`
       }
     }
     .lottie {
-      max-width: 400px;
+      max-width: 500px;
     }
   }
 `;

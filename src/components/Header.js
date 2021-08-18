@@ -39,8 +39,8 @@ const Header = () => {
         <div className="lottie">
           <Lottie
             options={defaultOptions}
-            height={400}
-            width={520}
+            height={300}
+            width={400}
             title="Emad Moradian"
           />
         </div>
